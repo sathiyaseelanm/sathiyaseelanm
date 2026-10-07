@@ -1,18 +1,3 @@
-<!--
-**sathiyaseelanm/sathiyaseelanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Sathiyaseelan Mathiyazhagan
 
 **Freelance Software Developer | Former Technical Manager | ServiceNow Specialist | Educator**
@@ -44,9 +29,15 @@ I build business applications, integrate enterprise systems, and work across req
 
 ### Finance and Daily Collection Management
 
-A full-stack system built with Spring Boot, React, PostgreSQL, and Flutter for customer management, loan tracking, daily collections, and offline mobile collection.
+A multi-tenant SaaS platform for lenders who collect loan repayments daily in the field. Office staff manage customers, loans and accounts in a React web application; field agents follow daily routes and record payments in a Flutter app that works offline. Every disbursement and collection is posted to the books automatically through double-entry accounting.
 
-[Explore the project →](https://github.com/sathiyaseelanm/finance-collection-management-case-study)
+**Stack:** Java 17, Spring Boot, Spring Security (JWT), PostgreSQL, Flyway, React, TypeScript, Flutter
+
+<a href="https://github.com/sathiyaseelanm/finance-collection-management-case-study">
+  <img src="https://raw.githubusercontent.com/sathiyaseelanm/finance-collection-management-case-study/main/01-dashboard.png" alt="Finance and Daily Collection Management dashboard (demo data)" width="720">
+</a>
+
+[Explore the case study: features, screenshots and architecture →](https://github.com/sathiyaseelanm/finance-collection-management-case-study)
 
 ## ServiceNow Experience
 
@@ -93,3 +84,14 @@ My experience includes deploying applications on AWS, Google Cloud and local ser
 ## Areas of Interest
 
 Enterprise application architecture · ServiceNow automation · ERP and SaaS development · System design · AI-assisted engineering · Technical education
+
+## Work With Me
+
+I am available for freelance projects:
+
+- Business applications: ERP, SaaS, finance and operations systems
+- ServiceNow development, workflow automation and integrations
+- Application architecture reviews and technical mentoring
+- Training in Java, Python, SQL, system design and AI engineering
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/msathiyaseelan).
