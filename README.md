@@ -15,7 +15,8 @@ I build business applications, integrate enterprise systems, and work across req
 
 | Area | Technologies |
 |---|---|
-| Backend | Java, Spring Boot, Hibernate/JPA, Python, PHP |
+| Backend (primary) | **Java, Spring Boot, Hibernate/JPA** |
+| Backend (secondary) | Python, PHP |
 | Frontend | React, Next.js, Angular, JavaScript, TypeScript, Tailwind CSS |
 | APIs & Messaging | REST APIs, Kafka |
 | Databases & Caching | PostgreSQL, MySQL, MongoDB, Redis |
