@@ -76,7 +76,7 @@ My work includes application development, workflow automation, and enterprise in
 - Software Asset Management (SAM)
 - Procurement automation
 - Oracle data source integration
-- Azure AI integration for automation
+- Azure integration for automation
 - ContractPodAi integration for contract management workflows
 
 ## Selected Previous Project Experience
