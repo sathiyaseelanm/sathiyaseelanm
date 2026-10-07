@@ -47,7 +47,7 @@ An ERP for silver jewellery businesses that bill by weight. Invoices price each 
 **Stack:** Java 17, Spring Boot, Spring Security (JWT), Hibernate/JPA, PostgreSQL, React, TypeScript, Tailwind CSS
 
 <a href="https://github.com/sathiyaseelanm/vellio-case-study">
-  <img src="https://raw.githubusercontent.com/sathiyaseelanm/vellio-case-study/main/screenshots/01-tax-invoice.png" alt="Vellio GST tax invoice with weight-based silver pricing (demo data)" width="720">
+  <img src="https://raw.githubusercontent.com/sathiyaseelanm/vellio-case-study/main/01-tax-invoice.png" alt="Vellio GST tax invoice with weight-based silver pricing (demo data)" width="720">
 </a>
 
 [Explore the case study: screenshots, design challenges and architecture →](https://github.com/sathiyaseelanm/vellio-case-study)
