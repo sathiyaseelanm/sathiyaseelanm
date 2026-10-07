@@ -9,7 +9,7 @@ I build business applications, integrate enterprise systems, and work across req
 ## Currently Building
 
 - **Salon ERP** — multi-tenant software covering appointments, inventory, purchasing, billing, finance, staff management, and customer engagement.
-- **Silver Retail & Wholesale Billing** — business software for silver retail and wholesale operations.
+- **Vellio** — silver retail & wholesale billing and finance ([case study](https://github.com/sathiyaseelanm/vellio-case-study)).
 
 ## Technical Expertise
 
@@ -26,7 +26,7 @@ I build business applications, integrate enterprise systems, and work across req
 | Deployment & Operations | Cloud and local server deployment, server maintenance, application support |
 | Quality & Database Migrations | SonarQube, Flyway, Liquibase |
 
-## Featured Project
+## Featured Projects
 
 ### Finance and Daily Collection Management
 
@@ -39,6 +39,14 @@ A multi-tenant SaaS platform for lenders who collect loan repayments daily in th
 </a>
 
 [Explore the case study: features, screenshots and architecture →](https://github.com/sathiyaseelanm/finance-collection-management-case-study)
+
+### Vellio — Silver Retail & Wholesale Billing and Finance
+
+An ERP for silver jewellery businesses that bill by weight. Invoices price each item from gross weight, stone, purity, wastage and making charges at the day's silver rate. Old silver can be exchanged at the counter, goods go out on approval, and long-unpaid balances are tracked in grams of silver. Every tagged piece can be traced from purchase to sale. Billing, purchases, stock and GST post to double-entry books automatically.
+
+**Stack:** Java 17, Spring Boot, Spring Security (JWT), Hibernate/JPA, PostgreSQL, React, TypeScript, Tailwind CSS
+
+[Explore the case study: design challenges, accounting model and architecture →](https://github.com/sathiyaseelanm/vellio-case-study)
 
 ## ServiceNow Experience
 
