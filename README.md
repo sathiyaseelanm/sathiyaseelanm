@@ -40,6 +40,14 @@ I build business applications, integrate enterprise systems, and work across req
 | Deployment & Operations | Cloud and local server deployment, server maintenance, application support |
 | Quality & Database Migrations | SonarQube, Flyway, Liquibase |
 
+## Featured Project
+
+### Finance and Daily Collection Management
+
+A full-stack system built with Spring Boot, React, PostgreSQL, and Flutter for customer management, loan tracking, daily collections, and offline mobile collection.
+
+[Explore the project →](https://github.com/sathiyaseelanm/finance-collection-management-case-study)
+
 ## ServiceNow Experience
 
 My work includes application development, workflow automation, and enterprise integrations across:
