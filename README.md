@@ -36,7 +36,8 @@ I build business applications, integrate enterprise systems, and work across req
 | Databases & Caching | PostgreSQL, MySQL, MongoDB, Redis |
 | Mobile | Flutter, Android |
 | Enterprise Platform | ServiceNow |
-| Cloud & DevOps | AWS, Docker, Kubernetes, Jenkins, Git |
+| Cloud & DevOps | AWS, Google Cloud, Docker, Kubernetes, Jenkins, Git |
+| Deployment & Operations | Cloud and local server deployment, server maintenance, application support |
 | Quality & Database Migrations | SonarQube, Flyway, Liquibase |
 
 ## ServiceNow Experience
@@ -78,6 +79,8 @@ These were company projects I contributed to. They are listed as professional ex
 I focus on maintainable code, clear architecture, reliable business rules, and practical solutions.
 
 I use AI-assisted tools, including Claude Code, to support implementation, code review, documentation, and learning. I remain responsible for architecture decisions, validating generated code, and testing the final solution.
+
+My experience includes deploying applications on AWS, Google Cloud and local servers, along with server maintenance and application support.
 
 ## Areas of Interest
 
