@@ -60,7 +60,7 @@ My work includes application development, workflow automation, and enterprise in
 - Procurement automation
 - Oracle data source integration
 - Azure AI integration for automation
-- ContractPodAi integration for procurement workflows
+- ContractPodAi integration for contract management workflows
 
 ## Selected Previous Project Experience
 
