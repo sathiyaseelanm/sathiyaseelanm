@@ -22,6 +22,7 @@ I build business applications, integrate enterprise systems, and work across req
 | Databases & Caching | PostgreSQL, MySQL, MongoDB, Redis |
 | Mobile | Flutter, Android |
 | Enterprise Platform | ServiceNow |
+| AI-Assisted Development | Claude Code, AI-assisted code review, documentation and testing, Azure integration |
 | Cloud & DevOps | AWS, Google Cloud, Docker, Kubernetes, Jenkins, Git |
 | Deployment & Operations | Cloud and local server deployment, server maintenance, application support |
 | Quality & Database Migrations | SonarQube, Flyway, Liquibase |
