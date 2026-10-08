@@ -8,7 +8,7 @@ I build business applications, integrate enterprise systems, and work across req
 
 ## Currently Building
 
-- **Salonova** — salon ERP covering appointments, billing, memberships, inventory, purchasing, payroll, finance, and customer loyalty ([case study](https://github.com/sathiyaseelanm/salonova-case-study)).
+- **Salon ERP** — software covering appointments, billing, memberships, inventory, purchasing, payroll, finance, and customer loyalty ([case study](https://github.com/sathiyaseelanm/salon-erp-case-study)).
 - **Vellio** — silver retail & wholesale billing and finance ([case study](https://github.com/sathiyaseelanm/vellio-case-study)).
 
 ## Technical Expertise
@@ -29,17 +29,17 @@ I build business applications, integrate enterprise systems, and work across req
 
 ## Featured Projects
 
-### Salonova — Salon ERP
+### Salon ERP
 
 An ERP that runs a salon's whole day in one web application. The front desk books customers with a stylist and a chair, then turns the visit into a GST invoice that credits each service to the stylist who delivered it. Memberships, prepaid service packages, gift cards and loyalty points keep customers coming back, and the products each service uses are taken out of stock automatically. Payroll pays staff their salary, commission and tips with PF/ESI and Professional Tax. Sales, purchases, payroll and expenses all post to double-entry books automatically.
 
 **Stack:** Java 17, Spring Boot, Spring Security (JWT), Hibernate/JPA, PostgreSQL, Flyway, React, TypeScript, Tailwind CSS
 
-<a href="https://github.com/sathiyaseelanm/salonova-case-study">
-  <img src="https://raw.githubusercontent.com/sathiyaseelanm/salonova-case-study/main/03-invoice.png" alt="Salonova GST invoice with each service credited to its stylist (demo data)" width="720">
+<a href="https://github.com/sathiyaseelanm/salon-erp-case-study">
+  <img src="https://raw.githubusercontent.com/sathiyaseelanm/salon-erp-case-study/main/03-invoice.png" alt="Salon ERP GST invoice with each service credited to its stylist (demo data)" width="720">
 </a>
 
-[Explore the case study: features, screenshots and architecture →](https://github.com/sathiyaseelanm/salonova-case-study)
+[Explore the case study: features, screenshots and architecture →](https://github.com/sathiyaseelanm/salon-erp-case-study)
 
 ### Finance and Daily Collection Management
 
